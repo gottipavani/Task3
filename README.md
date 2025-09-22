@@ -16,3 +16,4 @@ The server manages client connections, while each client can send and receive me
 ![Image](https://github.com/user-attachments/assets/3b59d4e1-53ea-4238-8136-59fd5a3a49b2)
 
 ![Image](https://github.com/user-attachments/assets/ae241aed-2f77-420d-b6cb-8e3ab5d4916c)
+
